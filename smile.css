@@ -1,0 +1,46 @@
+#large
+{
+    background-color: gold;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 100px;
+}
+#e1
+{
+    background-color:black;
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 100px;
+    display: inline-block;
+    
+}
+#e2
+{
+    background-color:black;
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 100px;
+    display: inline-block;
+    margin-left: 50px;
+    
+}
+#eye
+{
+    position: absolute;
+    top: 50px;
+    left:59px
+}
+#mouth
+{
+    background-color: brown;
+    border: 5px;
+    height: 30px;
+    width: 80px;
+    border-radius: 0 0 20px 20px;
+    position: fixed;
+    top: 130px;
+    left: 70px;
+}
